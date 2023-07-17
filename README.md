@@ -1,0 +1,1 @@
+Re-CODED exercise to practice responsiveness and media queries in css.
